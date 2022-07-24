@@ -1,3 +1,4 @@
+ "passphrase": "YOUR PASSPHRASE",
  "time": "{{timenow}}",
     "exchange": "{{exchange}}",
     "ticker": "{{ticker}}",

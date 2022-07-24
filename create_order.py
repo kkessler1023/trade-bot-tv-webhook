@@ -1,6 +1,7 @@
 import ccxt
 import config
 
+
 coinbase = ccxt.coinbasepro()
 coinbase.apiKey = config.CB_PRO_API_KEY
 coinbase.secret = config.CB_PRO_API_SECRET

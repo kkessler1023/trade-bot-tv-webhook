@@ -1,3 +1,4 @@
+#Webhook passphrase
 WEBHOOK_PASSPHRASE = "PASSPHRASE"
 
 #Binance Sandbox
